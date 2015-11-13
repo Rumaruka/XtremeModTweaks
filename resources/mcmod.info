@@ -1,0 +1,16 @@
+[
+{
+  "modid": "xtremepickaxe",
+  "name": "RmKPack XtremePickaxe Tweaks",
+  "description": "Mod For RmKPack S2.",
+  "version": "1.0r",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Rumaruka"],
+  "credits": "For a comfortable game, it is recommended do not put value "false" mobGriefing. Otherwise, you will not be able to play!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
