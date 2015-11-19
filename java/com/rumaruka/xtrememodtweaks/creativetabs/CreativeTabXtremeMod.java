@@ -1,7 +1,6 @@
 package com.rumaruka.xtrememodtweaks.creativetabs;
 
 import com.rumaruka.xtrememodtweaks.xtrememodtweaks;
-
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 
@@ -18,7 +17,7 @@ public class CreativeTabXtremeMod extends CreativeTabs {
 	    public Item getTabIconItem()
 	    {
 	       
-	            return xtrememodtweaks.xtremeIronPick;
+	         return xtrememodtweaks.xtremeIronPick;
 	    }
 	}
 
