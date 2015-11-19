@@ -2,7 +2,6 @@ package com.rumaruka.xtrememodtweaks.items;
 
 import com.rumaruka.xtrememodtweaks.xtrememodtweaks;
 import com.rumaruka.xtrememodtweaks.reference.Reference;
-
 import net.minecraft.item.ItemAxe;
 
 public class xtremeDiamondAxe extends ItemAxe {
